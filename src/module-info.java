@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author leonardodominici
+ *
+ */
+module ProjectHotel {
+}
